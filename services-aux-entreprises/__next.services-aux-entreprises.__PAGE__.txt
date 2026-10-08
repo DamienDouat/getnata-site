@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[17535,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/153tbw49q_1m9.js","/_next/static/chunks/1ub4ai273jcvw.js","/_next/static/chunks/24feotllpnivf.js"],"Nav"]
+3:I[62686,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/153tbw49q_1m9.js","/_next/static/chunks/1ub4ai273jcvw.js","/_next/static/chunks/24feotllpnivf.js"],"PageMarche"]
+4:I[71754,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/153tbw49q_1m9.js","/_next/static/chunks/1ub4ai273jcvw.js","/_next/static/chunks/24feotllpnivf.js"],"PiedDePage"]
+5:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/153tbw49q_1m9.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","a",null,{"href":"#contenu","className":"skip","children":"Aller au contenu"}],["$","$L2",null,{}],["$","$L3",null,{"slug":"services-aux-entreprises"}],["$","$L4",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/1ub4ai273jcvw.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/24feotllpnivf.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EB_dL220Db71pWSXUSihb"}
+7:null
